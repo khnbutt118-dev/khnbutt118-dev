@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+<title id="title">Hassan Butt — Pharmacy meets Artificial Intelligence</title>
+<desc id="desc">A futuristic blue medical technology banner with a molecular network, DNA-inspired curves, circuit traces and a medical cross.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06152b"/><stop offset=".55" stop-color="#0b2d50"/><stop offset="1" stop-color="#071b35"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22a8e8"/><stop offset=".5" stop-color="#65dcff"/><stop offset="1" stop-color="#2384d8"/></linearGradient>
+  <radialGradient id="halo"><stop offset="0" stop-color="#168bd0" stop-opacity=".32"/><stop offset="1" stop-color="#168bd0" stop-opacity="0"/></radialGradient>
+  <filter id="soft"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1400" height="420" rx="28" fill="url(#bg)"/>
+<circle cx="1110" cy="210" r="280" fill="url(#halo)"/>
+<circle cx="1110" cy="210" r="170" fill="none" stroke="#2b9ed6" stroke-opacity=".18"/>
+<circle cx="1110" cy="210" r="125" fill="none" stroke="#53caff" stroke-opacity=".16" stroke-dasharray="4 10"/>
+<g fill="none" stroke="url(#glow)" stroke-width="3" stroke-linecap="round" opacity=".8">
+ <path d="M0 330 H180 L220 290 H310 L350 330 H440"/>
+ <path d="M940 60 H1030 L1060 90 H1160 L1190 60 H1400"/>
+ <path d="M990 360 H1080 L1110 330 H1210 L1240 360 H1400"/>
+ <path d="M1280 150 H1350 V210 H1400"/>
+</g>
+<g fill="#64d8ff">
+ <circle cx="180" cy="330" r="5"/><circle cx="310" cy="290" r="5"/><circle cx="440" cy="330" r="5"/>
+ <circle cx="1030" cy="60" r="5"/><circle cx="1160" cy="90" r="5"/><circle cx="1080" cy="360" r="5"/>
+</g>
+<g transform="translate(1040 210)" fill="none" stroke="#6bd8ff" stroke-width="3" opacity=".7">
+ <path d="M-95 -130 C45 -70 -45 70 95 130"/><path d="M95 -130 C-45 -70 45 70 -95 130"/>
+ <path d="M-64 -105 L64 -105 M-40 -65 L40 -65 M-20 -22 L20 -22 M-20 22 L20 22 M-40 65 L40 65 M-64 105 L64 105" opacity=".65"/>
+</g>
+<g transform="translate(1230 200)" fill="none" stroke="#54caff" stroke-width="4" opacity=".9">
+ <path d="M-28 -68 H28 V-28 H68 V28 H28 V68 H-28 V28 H-68 V-28 H-28 Z" fill="#0b4e7b" fill-opacity=".35"/>
+</g>
+<g stroke="#55caff" stroke-width="2" fill="#0c4772" opacity=".9">
+ <path d="M830 100 L900 140 L875 220 L800 250 L745 185 Z" fill="none" opacity=".5"/>
+ <circle cx="830" cy="100" r="12"/><circle cx="900" cy="140" r="10"/><circle cx="875" cy="220" r="13"/><circle cx="800" cy="250" r="9"/><circle cx="745" cy="185" r="11"/>
+</g>
+<g fill="#e8f8ff" font-family="Segoe UI, Arial, sans-serif">
+ <text x="82" y="138" font-size="18" letter-spacing="7" fill="#66d5ff" font-weight="700">PHARMACEUTICAL SCIENCES  ×  INTELLIGENT SYSTEMS</text>
+ <text x="78" y="220" font-size="66" font-weight="700" letter-spacing="1">HASSAN BUTT</text>
+ <text x="82" y="270" font-size="27" fill="#9edfff" font-weight="600">PharmD Student · AI Engineer · Bioinformatics</text>
+ <text x="82" y="320" font-size="18" fill="#9bbbd1" letter-spacing="2">MEDICAL AI  /  COMPUTATIONAL RESEARCH  /  PHARMA INNOVATION</text>
+</g>
+<path d="M82 350 H680" stroke="url(#glow)" stroke-width="3" stroke-linecap="round"/>
+<circle cx="690" cy="350" r="5" fill="#64d8ff"/>
+</svg>
